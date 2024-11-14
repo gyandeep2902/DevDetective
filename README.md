@@ -21,9 +21,3 @@ Dev Detective is a React-based web application designed for efficient exploratio
   
 - JavaScript: Implemented dynamic features and functionality to enhance the overall usability of the application.
 
-https://github.com/Dhananjayshukla1/Dev-Detective-Project/assets/84383454/05638ae5-d247-491f-bb19-48667d5fb989
-
-![Screenshot (74)](https://github.com/Dhananjayshukla1/Dev-Detective-Project/assets/84383454/18f7ee94-1b8d-4715-862e-8a4a54ecb2b1)
-![Screenshot (70)](https://github.com/Dhananjayshukla1/Dev-Detective-Project/assets/84383454/1ddabff1-9bd5-4e08-ab27-aa6a0801ba61)
-![Screenshot (71)](https://github.com/Dhananjayshukla1/Dev-Detective-Project/assets/84383454/a796d21e-f16a-4dd3-a68b-f66536350c75)
-![Uploading Screenshot (74).png…]()
