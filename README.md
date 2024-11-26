@@ -14,8 +14,6 @@ Dev Detective is a React-based web application designed for efficient exploratio
 - Enhanced Online Visibility: Strengthen your online presence by highlighting GitHub repositories and linking to associated social media profiles, fostering connections within the developer community.
 
 ## Technologies Used
-
-- React: Used for building a responsive and interactive user interface.
   
 - HTML/CSS: Ensured a visually appealing and cohesive design for an engaging user experience.
   
